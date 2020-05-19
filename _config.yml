@@ -14,16 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: projects in p5.js
-github_username:  davideC00
+# github_username:  {{ site.github.owner_url}}
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-poole
+#remote_theme: poole/poole
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 
 
