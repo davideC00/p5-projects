@@ -9,4 +9,4 @@ image:  /projects/Vibing cube/image.png
 Just a cube with his faces moving randomly. If you move the mouse on it, you can change color and light.
 [Go to code][code]
 
-[code]: {{ site.github.repository_url | append :'/tree/gh-pages/projects/Vibing Cube' }}
+[code]: {{ site.github.repository_url | append :'/tree/master/projects/Vibing Cube' }}
