@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "Vibing cube"
+title:  "Vibing Cube"
 date:   2020-05-16 20:14:55 +0200
-image:  /projects/Vibing cube/image.png
+image:  /projects/Vibing Cube/image.png
 ---
 
 <div id="cube" class="canvas"></div>
